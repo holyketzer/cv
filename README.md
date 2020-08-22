@@ -1,6 +1,12 @@
 # CV (geek edition)
 
+Table of contents:
 
+- [Profile](#profile)
+- [Job history](#job-history)
+- [Open source](#open-source)
+- [Hobbies](#hobbies)
+- [Links](#links)
 
 ## Profile
 
