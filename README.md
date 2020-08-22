@@ -1,5 +1,7 @@
 # CV (geek edition)
 
+
+
 ## Profile
 
 ### Roles
@@ -120,3 +122,14 @@ Job | Developed tools for internal usage and monitoring systems for an industria
 - https://github.com/kedacore/keda
 - https://github.com/fission/fission
 - and more less known projects
+
+## Hobbies
+
+- Jogging & hiking
+- DIY
+- Music & books
+
+## Links
+
+- https://www.linkedin.com/in/aemelyanov86/
+- https://stackoverflow.com/users/898680/alexander
