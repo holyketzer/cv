@@ -106,3 +106,17 @@ Period |  Jul 2008 - Jun 2009
 Location | Tomsk
 Stack | Delphi, C++
 Job | Developed tools for internal usage and monitoring systems for an industrial production.
+
+## Open source
+
+### Author and maintainer of
+
+- https://github.com/holyketzer/activeadmin-ajax_filter
+- https://github.com/holyketzer/activeadmin-async_panel
+
+### Contributed to 
+
+- https://github.com/rails/rails
+- https://github.com/kedacore/keda
+- https://github.com/fission/fission
+- and more less known projects
