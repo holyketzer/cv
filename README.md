@@ -4,6 +4,7 @@ Table of contents:
 
 - [Profile](#profile)
 - [Job history](#job-history)
+- [Education](#education)
 - [Open source](#open-source)
 - [Hobbies](#hobbies)
 - [Links](#links)
@@ -114,6 +115,18 @@ Period |  Jul 2008 - Jun 2009
 Location | Tomsk
 Stack | Delphi, C++
 Job | Developed tools for internal usage and monitoring systems for an industrial production.
+
+## Education
+
+<span> | <span>
+------------ | -------------
+Period |  2003 - 2008
+Institution | Tomsk State University of Control Systems and Radioelectronics
+Faculty | Radio Design
+Department | Department of Radio Electronic Technologies and Environmental Monitoring
+Degree | Specialist
+Specialization | Design and Technology of Radio Electronic Tools
+Degree work | Computer simulation system for microstrip lines for integrated microwave devices
 
 ## Open source
 
