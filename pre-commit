@@ -1,0 +1,6 @@
+#!/bin/sh
+pandoc README.md -s -o cv.pdf -f gfm -V margin-top=1 -V margin-left=1 -V margin-right=1 -V margin-bottom=1 -V papersize=letter -t html5 --css=style.css --metadata title="Aleksander Emelyanov"
+cp .git/hooks/pre-commit pre-commit
+
+git add pre-commit
+git add cv.pdf
