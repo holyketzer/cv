@@ -14,6 +14,10 @@ Table of contents:
 
 ## Profile
 
+### Summary
+
+Software engineer with 12+ years of experience. Open source maintainer and contributor. In my spare time, I launched a car-sharing startup in St. Petersburg, while maintaining high productivity at my main job. Top 1 student in first semester of Mail.ru Big Data Academy from 2020 recruitment.
+
 ### Roles
 
 * Software Engineer
@@ -37,7 +41,7 @@ Table of contents:
 Period | Jan 2017 - Present
 Location | Remote
 Stack | Ruby, Ruby on Rails, RSpec, Sidekiq, ActiveAdmin, PostgreSQL, Python, Celery, Terraform, Heroku, AWS, Kubernetes, Git
-Job | Designed and developed backend, API and management UI for cluster management system to run our AutoML payload + developed a couple of related microservices.
+Job | Designed and developed backend, API and management UI for cluster management system to run our AutoML payload + developed a couple of related microservices. Added support of RabbitMQ to open source Keda scaler to implement autoscaling in our Kubernetes clusters. Implemented integration test which detected tens of broken commits. Optimized unit tests and made them 2x faster. Completely fixed false negatives in UI tests by rewriting them from Capybara to Cypress. Rewrited 10k CLOC Django project to Rails in 10 days and increased test coverage from 80% to 95%.
 
 ### Lead Software Engineer at Digital Car
 
@@ -55,7 +59,9 @@ Job | Designed, developed and supported a carsharing solution for colesa.com - c
 Period | Sep 2014 - Jan 2017
 Location | Saint Petersburg
 Stack | Ruby, Ruby on Rails, RSpec, Sidekiq, ActiveAdmin, PostgreSQL, Docker, Ansible, Git
-Job | Participated in design and developing of backend, API, and management UI for TV streaming platform (OTT middleware). Supported system in production, optimised code and DB design to work under load.
+Job | Participated in design and developing of backend, API, and management UI for TV streaming platform (OTT middleware). Supported system in production, optimised code and DB design to work under load. Halved the average API response time.
+
+<div class="new-page"></div>
 
 ### Software Developer at VIAcode
 
@@ -65,8 +71,6 @@ Period | Jul 2012 - Sep 2014
 Location | Saint Petersburg
 Stack | C#, ASP.Net MVC, MS SQL, MS System Center, Ruby, JavaScript, Ember.js, TFS
 Job | Participated in developing of MS SCOM management packs. Extend SCOM with a bunch of cool widgets which were highly appreciated by the Microsoft employees.
-
-<div class="new-page"></div>
 
 ### Software Developer at LLC "Technologii Avtomatizatsii"
 
@@ -91,10 +95,8 @@ Job | Developed tools for internal usage and monitoring systems for an industria
 <span> | <span>
 -- | ----------------
 Period |  2003 - 2008
-Institution | Tomsk State University of Control Systems and Radioelectronics
-Faculty | Radio Design
-Department | Department of Radio Electronic Technologies and Environmental Monitoring
-Degree | Specialist
+Location | Tomsk State University of Control Systems and Radioelectronics
+Faculty | Radio Design at Department of Radio Electronic Technologies and Environmental Monitoring
 Specialization | Design and Technology of Radio Electronic Tools
 Degree work | Computer simulation system for microstrip lines for integrated microwave devices.
 
@@ -105,12 +107,11 @@ Degree work | Computer simulation system for microstrip lines for integrated mic
 - https://github.com/holyketzer/activeadmin-ajax_filter
 - https://github.com/holyketzer/activeadmin-async_panel
 
-### Contributed to 
+### Most popular projects I contributed to 
 
 - https://github.com/rails/rails
 - https://github.com/kedacore/keda
 - https://github.com/fission/fission
-- and more less known projects
 
 ## Hobbies
 
@@ -120,6 +121,6 @@ Degree work | Computer simulation system for microstrip lines for integrated mic
 
 ## Links
 
+- https://github.com/holyketzer
 - https://www.linkedin.com/in/aemelyanov86/
-- https://stackoverflow.com/users/898680/alexander
 - https://www.kaggle.com/holyketzer
