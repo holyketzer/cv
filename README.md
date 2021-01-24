@@ -12,11 +12,13 @@ Table of contents:
 - [Links](#links)
 </div>
 
+<div class="contacts"></div>
+
 ## Profile
 
 ### Summary
 
-Software engineer with 12+ years of experience. Open source maintainer and contributor. In my spare time, I launched a car-sharing startup in St. Petersburg, while maintaining high productivity at my main job. Top 1 student in first semester of Mail.ru Big Data Academy from 2020 recruitment.
+Software engineer with 12+ years of experience. Open source maintainer and contributor. Launched a car-sharing startup in St. Petersburg in my spare time, while maintaining high productivity at my main job. I'm used to deliver features even if it requires bug fixes or new features in third party libraries. Top 1 student in first semester of Mail.ru Big Data Academy from 2020 recruitment.
 
 ### Roles
 
@@ -59,7 +61,7 @@ Job | Designed, developed and supported a carsharing solution for colesa.com - c
 Period | Sep 2014 - Jan 2017
 Location | Saint Petersburg
 Stack | Ruby, Ruby on Rails, RSpec, Sidekiq, ActiveAdmin, PostgreSQL, Docker, Ansible, Git
-Job | Participated in design and developing of backend, API, and management UI for TV streaming platform (OTT middleware). Supported system in production, optimised code and DB design to work under load. Halved the average API response time.
+Job | Participated in design and developing of backend, API, and management UI for TV streaming platform (OTT middleware). Supported system in production. Halved the average API response time with bunch of optimisations.
 
 <div class="new-page"></div>
 
