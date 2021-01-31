@@ -17,3 +17,11 @@ cp .env.template .env
 # Set contact data in .env file
 ./cv_with_contacts.sh
 ```
+
+# Server HTML locally with 
+
+Use NPM package markserv
+
+```sh
+markserv ./
+```

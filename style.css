@@ -1,10 +1,9 @@
 body {
   font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.1;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: white;
   padding: 30px;
   color: #333;
 }
@@ -108,7 +107,7 @@ h6 {
 }
 
 p, blockquote, ul, ol, dl, li, table, pre {
-  margin: 12px 0;
+  margin: 5px 0;
 }
 
 hr {
@@ -153,7 +152,7 @@ li p.first {
 
 ul, ol {
   padding-left: 30px;
-  line-height: 0.9;
+  line-height: 1.5;
 }
 
 ul :first-child, ol :first-child {
@@ -181,6 +180,7 @@ blockquote > :last-child {
 table {
   padding: 0;
   border-spacing: 0px;
+  width: 100%;
 }
 
 table tr {
@@ -202,11 +202,20 @@ table tr th {
   padding: 6px 13px;
 }
 
+
 table tr td {
   border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
+}
+
+table.noborder {
+  margin-top: 20px;
+}
+
+table.noborder tr td {
+  border: 0px;
 }
 
 table tr th :first-child, table tr td :first-child {
