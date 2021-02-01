@@ -180,6 +180,7 @@ blockquote > :last-child {
 table {
   padding: 0;
   border-spacing: 0px;
+  border-collapse: collapse;
   width: 100%;
 }
 
@@ -216,6 +217,15 @@ table.noborder {
 
 table.noborder tr td {
   border: 0px;
+}
+
+table.noborder tbody tr td:first-child {
+  width: 50%;
+}
+
+
+thead tr th:first-child, tbody tr td:first-child {
+  width: 90px;
 }
 
 table tr th :first-child, table tr td :first-child {
