@@ -16,19 +16,35 @@ Table of contents:
 
 ## Summary
 
-* Senior Software Engineer with 12+ years of experience. 
-* Open source maintainer and contributor. 
+* Senior Software Engineer with a rich experience in a wide range of technologies since 2008.
 * Launched a car-sharing startup in St. Petersburg in my spare time, while maintaining high productivity at my main job. 
 * I'm used to delivering features even if it requires bug fixes or new features in third party libraries. 
+* Open source maintainer and contributor. 
 * Top 1 student in first semester of Mail.ru Big Data Academy from 2020 recruitment.
 
+### Key technologies:
+
+* Languages: Ruby, Python, Go, C++
+* Storages and queues: PostgreSQL, Redis, S3, RabbitMQ
+* Deploy and automation: Linux, Docker, Kubernetes, Terraform, Vault, AWS
+* Frontend: HTML, CSS, JavaScript, jQuery, React.js
+* ML: Overview of models to work with text, image and audio data. Understanging of ML pipeline.
+
 ## Job history
+
+### Senior Software Engineer at Workato
+
+<span> | <span>
+-- | ----------------
+Period | Oct 2021 - Present
+Stack | Ruby, Ruby on Rails, RSpec, Que, Sidekiq, PostgreSQL, Clickhouse, AWS, Kubernetes, Git
+Job | <ul><li>Mostly worked on scaling/performance tasks, Web API, new features and bug fixes</li><li>Decreased integration tests runtime from 50 minutes to 10 minutes</li><li>Introduced a cache for a recipe code which significantly decreased main DB load</li><li>Moved job background processing system from Que to Sidekiq which decreased main DB load</li><li>Fixed a bug with customer credentials leaking to debug tracing</li></ul>
 
 ### Senior Software Engineer at Deep Learn Inc
 
 <span> | <span>
 -- | ----------------
-Period | Jan 2017 - Present
+Period | Jan 2017 - Oct 2021
 Stack | Ruby, Ruby on Rails, RSpec, Sidekiq, ActiveAdmin, PostgreSQL, Python, Celery, Terraform, Heroku, AWS, Kubernetes, Git
 Job | <ul><li>Designed and developed backend, API and management UI for cluster management system to run our AutoML payload + developed a couple of related microservices</li><li>Added support of RabbitMQ to open source Keda scaler to implement autoscaling in our Kubernetes clusters</li> <li>Implemented integration test which detected tens of broken commits</li> <li>Optimised unit tests and made them 2x faster</li> <li>Completely fixed false negatives in UI tests by rewriting them from Capybara to Cypress</li> <li>Rewrote 10k CLOC Django project to Rails in 10 days and increased test coverage from 80% to 95%</li></ul>
 
@@ -74,13 +90,14 @@ Period |  Jul 2008 - Jun 2009
 Stack | Delphi, C++, SVN
 Job | <ul><li>Developed tools for internal usage and monitoring systems for an industrial production</li><ul>
 
-### Key technologies:
+## Second degree
 
-* Languages: Ruby, Python, Go, C++
-* Storages and queues: PostgreSQL, Redis, RabbitMQ, S3
-* Deploy and automation: Linux, Docker, Kubernetes, Terraform, Vault, AWS
-* Frontend: HTML, CSS, JavaScript, jQuery, React.js
-* Basic ML: feature engineering, GBM
+<span> | <span>
+-- | ----------------
+Period |  2020 - 2021
+University | Mail.ru Big Data Academy (National University of Science and Technology MISiS)
+Specialization | Machine Learning Engineer
+Degree work | Automation of defect detection on safety glasses
 
 ## Education
 
@@ -102,7 +119,7 @@ Degree work | Computer simulation system for microstrip lines for integrated mic
 - https://github.com/holyketzer/activeadmin-ajax_filter
 - https://github.com/holyketzer/activeadmin-async_panel
 
-### Most popular projects I contributed to 
+### Most popular projects I contributed to
 
 - https://github.com/rails/rails
 - https://github.com/kedacore/keda
