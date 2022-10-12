@@ -380,3 +380,11 @@ pre code, pre tt {
   clear: both;
   padding-top: 20px;
 }
+
+img.photo {
+  width: 170px;
+  height: 170px;
+  position: absolute;
+  top: 20px;
+  right: 40px;
+}
